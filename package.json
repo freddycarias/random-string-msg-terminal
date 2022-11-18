@@ -1,0 +1,23 @@
+{
+  "name": "random-string-msg-terminal",
+  "version": "1.0.0",
+  "description": "Random String Messages in Terminal, my class project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freddycarias/random-string-msg-terminal.git"
+  },
+  "author": "Freddy Carias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freddycarias/random-string-msg-terminal/issues"
+  },
+  "homepage": "https://github.com/freddycarias/random-string-msg-terminal#readme",
+  "bin": {
+    "random-str-msg-terminal": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
